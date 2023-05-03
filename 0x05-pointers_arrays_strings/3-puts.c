@@ -3,7 +3,7 @@
  * _puts - prints a string, followed by a new line, to stdout
  * @str: ztring to print
  */
-void _pots(char *str)
+void _puts(char *str)
 {
 	while (str != '\0')
 	{
