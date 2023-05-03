@@ -1,7 +1,7 @@
 /**
  * print_rev - imprime en reversa
  * @s: string
- * return: 0;
+ * return: 0
  */
 void print_rev(char *s)
 {
