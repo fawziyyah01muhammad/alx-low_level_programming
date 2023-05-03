@@ -4,6 +4,8 @@
  * @s: string
  * Return: length
  */
+
+/* Definition of puts_half*/
 int _strlen(char *s)
 {
 	int longi = 0;
